@@ -1,0 +1,9 @@
+# Generated CSV's
+csv
+
+# Dependencies
+.npm
+node_modules
+
+# OS metadata
+.DS_Store
